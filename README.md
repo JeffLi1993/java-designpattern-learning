@@ -8,11 +8,12 @@ QQ群：编程之美 365234583 [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4
 
 ## 项目结构
 - src 目录<br>
-Java核心技术学习代码兼测试案例<br>
+Java Design Pattern (设计模式) 兼测试案例<br>
 
 包目录：
 
 	├── org.javadp.strategy	// 策略模式
+	├── org.javadp.template	// 模板模式
 	│
 	拼命更新！顶！d=====(￣▽￣*)b
 
@@ -21,6 +22,8 @@ Java核心技术学习代码兼测试案例<br>
 	├── README.md						// 项目唯一详细文档
 	├── org.javadp.strategy	// 策略模式
 	├── org.javadp.strategy.sql		// 策略模式 - 数据库查询案例
+	├── org.javadp.template	// 模板模式
+	├── org.javadp.template.mcl99		// 模板模式 - 99乘法表打印案例
 	拼命更新！顶！d=====(￣▽￣*)b
 
 ##学习方法
