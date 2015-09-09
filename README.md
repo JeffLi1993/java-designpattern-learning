@@ -14,6 +14,7 @@ Java Design Pattern (设计模式) 兼测试案例<br>
 
 	├── org.javadp.strategy	// 策略模式
 	├── org.javadp.template	// 模板模式
+	├── org.javadp.decorator	// 装饰模式
 	│
 	拼命更新！顶！d=====(￣▽￣*)b
 
@@ -24,6 +25,8 @@ Java Design Pattern (设计模式) 兼测试案例<br>
 	├── org.javadp.strategy.sql		// 策略模式 - 数据库查询案例
 	├── org.javadp.template	// 模板模式
 	├── org.javadp.template.mcl99		// 模板模式 - 99乘法表打印案例
+	├── org.javadp.decorator	// 装饰模式
+	├── org.javadp.decorator.servletReq		// 装饰模式 - 模拟Serlvet的Request
 	拼命更新！顶！d=====(￣▽￣*)b
 
 ##学习方法
