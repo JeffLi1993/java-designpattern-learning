@@ -12,21 +12,24 @@ Java Design Pattern (设计模式) 兼测试案例<br>
 
 包目录：
 
+	├── org.javadp.callback	// 回调机制
+	├── org.javadp.decorator	// 装饰模式
 	├── org.javadp.strategy	// 策略模式
 	├── org.javadp.template	// 模板模式
-	├── org.javadp.decorator	// 装饰模式
 	│
 	拼命更新！顶！d=====(￣▽￣*)b
 
 详细目录：
 
 	├── README.md						// 项目唯一详细文档
+	├── org.javadp.callback	// 回调机制
+	├── org.javadp.callback.cs	// 回调机制 - 模拟CS放送msg
+	├── org.javadp.decorator	// 装饰模式
+	├── org.javadp.decorator.servletReq		// 装饰模式 - 模拟Serlvet的Request
 	├── org.javadp.strategy	// 策略模式
 	├── org.javadp.strategy.sql		// 策略模式 - 数据库查询案例
 	├── org.javadp.template	// 模板模式
 	├── org.javadp.template.mcl99		// 模板模式 - 99乘法表打印案例
-	├── org.javadp.decorator	// 装饰模式
-	├── org.javadp.decorator.servletReq		// 装饰模式 - 模拟Serlvet的Request
 	拼命更新！顶！d=====(￣▽￣*)b
 
 ##学习方法
