@@ -3,8 +3,7 @@
 
 ## 作者与学习乐园
 源码地址:我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
-作者： [李强强](http://www.bysocket.com/ "李强强")<br>
-QQ群：编程之美 365234583 [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4U "编程之美")
+作者： [泥瓦匠](http://www.bysocket.com/ "泥瓦匠")<br>
 
 ## 项目结构
 - src 目录<br>
