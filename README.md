@@ -11,25 +11,37 @@ Java Design Pattern (设计模式) 兼测试案例<br>
 
 包目录：
 
-	├── org.javadp.callback	// 回调机制
-	├── org.javadp.decorator	// 装饰模式
-	├── org.javadp.strategy	// 策略模式
-	├── org.javadp.template	// 模板模式
-	│
-	拼命更新！顶！d=====(￣▽￣*)b
+```java
+├── org.javadp.callback  // 回调机制
+├── org.javadp.decorator // 装饰模式
+├── org.javadp.strategy  // 策略模式
+├── org.javadp.template  // 模板模式
+├── org.javadp.factory   // 工厂模式
+├── org.javadp.builder   // 建造者模式
+│
+拼命更新！顶！d=====(￣▽￣*)b
+```
 
 详细目录：
 
-	├── README.md						// 项目唯一详细文档
-	├── org.javadp.callback	// 回调机制
-	├── org.javadp.callback.cs	// 回调机制 - 模拟CS放送msg
-	├── org.javadp.decorator	// 装饰模式
-	├── org.javadp.decorator.servletReq		// 装饰模式 - 模拟Serlvet的Request
-	├── org.javadp.strategy	// 策略模式
-	├── org.javadp.strategy.sql		// 策略模式 - 数据库查询案例
-	├── org.javadp.template	// 模板模式
-	├── org.javadp.template.mcl99		// 模板模式 - 99乘法表打印案例
-	拼命更新！顶！d=====(￣▽￣*)b
+```java
+├── README.md                        // 项目唯一详细文档
+├── org.javadp.callback              // 回调机制
+├── org.javadp.callback.cs           // 回调机制 - 模拟CS放送msg
+├── org.javadp.decorator             // 装饰模式
+├── org.javadp.decorator.servletReq  // 装饰模式 - 模拟Serlvet的Request
+├── org.javadp.strategy              // 策略模式
+├── org.javadp.strategy.sql          // 策略模式 - 数据库查询案例
+├── org.javadp.template              // 模板模式
+├── org.javadp.template.mcl99        // 模板模式 - 99乘法表打印案例
+├── org.javadp.factory               // 工厂模式
+├── org.javadp.factory.calc          // 工厂模式 - 计算器案例
+├── org.javadp.builder               // 建造者模式
+├── org.javadp.builder.demo1         // 建造者模式 - 案例1
+├── org.javadp.builder.demo2         // 建造者模式 - 案例2
+│
+拼命更新！顶！d=====(￣▽￣*)b
+```
 
 ##学习方法
 根据包目录，进行一块一块学习。然后针对某类，请看下相对应的test包或者src下直接测试案例，进行学习。
